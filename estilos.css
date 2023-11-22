@@ -1,0 +1,209 @@
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    body{
+    
+        background-image: url("perfecta.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
+        
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat:round;
+        
+        float:right;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("primero.jpg");
+        
+        }
+        
+
+
+
+    
+        
+         
+        
+    .imagensociales{
+    
+     
+    
+    background-repeat:round;
+    
+    float:left;
+    
+    height: 1000px;
+    
+    width: 1200px;
+    
+    margin-left: 75px;
+    
+    margin-right:5px;
+    
+    background-image: url("Infografia.png");
+    
+    }
+    
+
+
+
+
+
+
+
+        
+        .textotecno{
+        
+        text-align: center;
+        
+        color: azure;
+        
+        font-size: 20px;
+
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+        
+        
+        }
+
+
+        .textosociales{
+        
+            text-align: center;
+            
+            color: azure;
+            
+            font-size: 20px;
+    
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+            
+            
+            
+            }
+
+
+
+
+            .textotecnop3{
+        
+                text-align: center;
+                
+                color: azure;
+                
+                font-size: 20px;
+        
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                
+                
+                
+                }
+
+
+
+
+
+                .textosocialesp3{
+        
+                    text-align: center;
+                    
+                    color: azure;
+                    
+                    font-size: 20px;
+            
+                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    
+                    
+                    
+                    
+                    }
